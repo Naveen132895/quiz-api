@@ -24,7 +24,7 @@
         },
         {
           "id": 3,
-          "question": "Which is the largest astero"id"?",
+          "question": "Which is the largest astero 'id' ?",
           "answer": "Ceres",
           "options": [
             "Ceres",
