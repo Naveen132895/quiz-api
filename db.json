@@ -109,6 +109,16 @@
             "Browser",
             "None of the above"
           ]
+        },{
+          "id": 10,
+          "question": "JavaScript is a ________ Side Scripting Language",
+          "answer": "Browser",
+          "options": [
+            "Server",
+            " ISP",
+            "Browser",
+            "None of the above"
+          ]
         }
     ]
 }
